@@ -1,0 +1,17 @@
+#colorBlock{
+    width: 100px;
+    height: 100px;
+    background: black;
+}
+
+#funWithWords {
+    font-family: Georgia;
+    font-style: normal;
+    font-weight: bold;
+}
+
+#secondColorBlock{
+    width: 100px;
+    height: 100px;
+    background: black;
+}
